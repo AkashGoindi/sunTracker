@@ -2,6 +2,8 @@
 
 Welcome to Sunrise Sunset Tracker, a simple yet captivating web application that allows you to track the sunrise, sunset, dawn, and dusk of any location, complete with timezone information. Powered by the Geolocation API and SunriseSunset.io, this app not only provides useful data but also offers an aesthetically pleasing experience with day and night color-changing themes.
 
+<img width="1710" alt="dark" src="https://github.com/AkashGoindi/sunTracker/assets/41852582/a94ffe29-9545-4b5b-bd5e-db949736968f">
+
 ## Features
 
 - **Geolocation Integration:** Utilize the Geolocation API to effortlessly track the celestial events of any location on Earth.
