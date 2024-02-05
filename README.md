@@ -52,10 +52,6 @@ To run this application locally, follow these steps:
 
 - **SunriseSunset.io:** Thanks to SunriseSunset.io for providing accurate and reliable data for celestial events.
 
-## Contributing
-
-We welcome contributions! If you have any suggestions, enhancements, or bug fixes, feel free to open an issue or submit a pull request.
-
 ---
 
 **Happy Tracking! 🌅🌄**
