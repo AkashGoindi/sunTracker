@@ -56,10 +56,6 @@ To run this application locally, follow these steps:
 
 We welcome contributions! If you have any suggestions, enhancements, or bug fixes, feel free to open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ---
 
 **Happy Tracking! 🌅🌄**
